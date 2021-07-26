@@ -19,3 +19,13 @@ then open and play
 
 
 enjoy :)
+
+# STEAMWORKS
+Steamworks.NET created by Riley Labrecque
+http://steamworks.github.io
+
+Steamworks.NET Version: 15.0.1
+Steamworks SDK Version: 1.51
+Steam API DLL Version:  06.28.18.86
+Steam API DLL Size:     239904
+Steam API64 DLL Size:   265504
